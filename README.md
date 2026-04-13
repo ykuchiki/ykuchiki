@@ -3,11 +3,11 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Kuchiki</h1>
-<h3 align="center">Graduate Student in Japan</h3>
+<h3 align="center">CEO of Amirai L.L.C in Japan</h3>
 
 <p align="center"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ykuchiki&layout=compact&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ykuchiki&theme=onedark&show_icons=ture" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ykuchiki&theme=onedark&show_icons=true" />
 </p>
 
 <h3 align="left">My skills:</h3>
